@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Local config
+resumo_patch.txt
+fetch.py
+urls.txt
+agents.json
+weapons.json
+
+.DS_Store
