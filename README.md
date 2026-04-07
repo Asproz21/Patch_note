@@ -5,10 +5,12 @@ Um painel web moderno, responsivo e interativo para visualizar de forma clara e 
 ## 📸 Como ficou:
 
 ### Dashboard - League of Legends
-![Screen de League of Legends](assets/lol-preview.png)
+<img width="1093" height="952" alt="image" src="https://github.com/user-attachments/assets/ddf33612-83f2-40d1-b763-968d98d39a52" />
+
 
 ### Dashboard - Valorant
-![Screen do Valorant](assets/valorant-preview.png)
+<img width="1025" height="948" alt="image" src="https://github.com/user-attachments/assets/0c2c3ee4-30a4-4e28-8df9-3d24637c4462" />
+
 
 ---
 
