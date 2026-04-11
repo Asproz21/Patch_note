@@ -1,3 +1,7 @@
 selenium
 webdriver-manager
 beautifulsoup4
+flask
+flask-cors
+requests
+apscheduler
