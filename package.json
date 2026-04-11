@@ -1,0 +1,26 @@
+{
+  "name": "patch_lol",
+  "version": "1.0.0",
+  "description": "Um painel web moderno, responsivo e interativo para visualizar de forma clara e ágil as atualizações de patch notes dos principais jogos da Riot (**League of Legends** e **Valorant**).",
+  "main": "index.js",
+  "scripts": {
+    "frontend": "npm --prefix patch-dashboard run dev",
+    "backend": "python server.py",
+    "dev": "concurrently \"npm run backend\" \"npm run frontend\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Asproz21/Patch_note.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Asproz21/Patch_note/issues"
+  },
+  "homepage": "https://github.com/Asproz21/Patch_note#readme",
+  "devDependencies": {
+    "concurrently": "^9.2.1"
+  }
+}
